@@ -10,7 +10,7 @@ export default() => (
                 <a href="mailto:me@example.com">me@example.com</a>
             </p>
             <p>
-            <form name="contact" method="POST" netlify>
+            <form name="contact" method="POST" netlify action="https://jolly-bohr-723a40.netlify.com/contact/">
                 <p>
                     <label>Your Name: <input type="text" name="name" /></label>   
                 </p>
